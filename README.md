@@ -1,1 +1,1 @@
-Temporary README, will fill out later.
+A simply recipe page created to demonstrate basic HTML and CSS proficiency.

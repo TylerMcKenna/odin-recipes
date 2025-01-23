@@ -1,0 +1,30 @@
+* {
+    font-family: 'Courier New', monospace;
+    background-color: #dbeeff;
+}
+
+a {
+    color: #033a8d
+}
+
+h3 {
+    font-size: 22px;
+}
+
+p, li {
+    font-size: 18px; 
+}
+
+li {
+    color: #464646ea;
+}
+
+#groundBeef, #proteinShake {
+    width: 341px;
+    height: auto;
+}
+
+#sausagePasta {
+    width: 500;
+    height: auto;
+}
