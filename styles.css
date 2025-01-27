@@ -1,6 +1,42 @@
 * {
     font-family: 'Courier New', monospace;
     background-color: #dbeeff;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.pageTitle {
+    text-align: center;
+    margin: 5px 0px;
+}
+
+.recipesLinks {
+    width: 50%;
+    margin: 0px auto;
+}
+
+.recipesElement {
+    display: inline-block;
+    margin: 0px 20px 20px 20px;
+    border: 2px solid rgba(53, 53, 53, 0.247);
+}
+
+.recipesElement:hover {
+    border: 2px solid rgba(27, 27, 27, 0.479);
+}
+
+.recipeLink,
+.recipeImage {
+    display: block;
+}
+
+.recipeLink {
+    list-style-type: none;
+    padding: 10px;
+}
+
+.recipeImage {
+    margin: 10px auto 0px auto;
 }
 
 a {
